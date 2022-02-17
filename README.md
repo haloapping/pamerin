@@ -9,7 +9,7 @@ Sama seperti tanaman, kita akan terus bertumbuh. Dalam prosesnnya kita akan bela
 - Berisi kumpulan sertifikat yang didapatkan setelah mengikuti dan menyelasaikan kursus online gratis.
 - Kenapa ambilnya kursus online gratis? Karena, uangnya gak cukup buat bayar kursus berbayar wkwkw 😅
 
-# Daftar Seritifikat 🎯
+# Daftar Sertifikat 🎯
 
 1. sololearn [Profile](https://www.sololearn.com/profile/23345830)
    - [Python for Beginners](https://www.sololearn.com/certificates/course/en/23345830/1157/landscape/png)
