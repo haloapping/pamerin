@@ -11,14 +11,19 @@ Sama seperti tanaman, kita akan terus bertumbuh. Dalam prosesnnya kita akan bela
 
 # Daftar Sertifikat 🎯
 
-1. sololearn <a href="https://www.sololearn.com/profile/23345830" target="_blank">Profile</a>
-   - <a href="https://www.sololearn.com/certificates/course/en/23345830/1157/landscape/png" target="_blank">Python for Beginners</a>
-   - <a href="https://www.sololearn.com/certificates/course/en/23345830/1073/landscape/png" target="_blank">Python Core</a>
-   - <a href="https://www.sololearn.com/certificates/course/en/23345830/1159/landscape/png" target="_blank">Python Data Structures</a>
-   - <a href="https://www.sololearn.com/certificates/course/en/23345830/1060/landscape/png" target="_blank">SQL<a>
+1. Sololearn [Profile](https://www.sololearn.com/profile/23345830)
+   - [Python for Beginners](https://www.sololearn.com/certificates/course/en/23345830/1157/landscape/png)
+   - [Python Core](https://www.sololearn.com/certificates/course/en/23345830/1073/landscape/png)
+   - [Python Data Structures](https://www.sololearn.com/certificates/course/en/23345830/1159/landscape/png)
+   - [SQL](https://www.sololearn.com/certificates/course/en/23345830/1060/landscape/png)
      <br>
-2. datacamp <a href="https://www.datacamp.com/profile/alfiyantokondolele" target="_blank">Profile</a>
-   - <a href="https://www.datacamp.com/statement-of-accomplishment/course/bab9c339e91b70d068cb77ca6785aa8f612a6a4f" target="_blank">Introduction to Python</a>
+2. Datacamp [Profile](https://www.datacamp.com/profile/alfiyantokondolele)
+
+   - [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/bab9c339e91b70d068cb77ca6785aa8f612a6a4f)
+     <br>
+
+3. Kaggle [Profile](https://www.kaggle.com/alfiyantokondolele/account)
+   - [Python](https://www.kaggle.com/learn/certification/alfiyantokondolele/python)
 
 # Disclaimer 🏆
 
