@@ -26,6 +26,7 @@ Sama seperti tanaman, kita akan terus bertumbuh. Dalam prosesnnya kita akan bela
    - [Python](https://www.kaggle.com/learn/certification/alfiyantokondolele/python)
    - [Pandas](https://www.kaggle.com/learn/certification/alfiyantokondolele/pandas)
    - [Data Cleaning](https://www.kaggle.com/learn/certification/alfiyantokondolele/data-cleaning)
+   - [Feature Engineering](https://www.kaggle.com/learn/certification/alfiyantokondolele/feature-engineering)
 
 # Disclaimer 🏆
 
